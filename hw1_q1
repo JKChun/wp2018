@@ -5,7 +5,7 @@ int main() {
 
   float dataNum=0, compareNum=0;
   float data[];
-  int dataAmount=0, testNum=0, a=0, b=0;
+  int dataAmount=0, testNum=0, a=0;
   int correct[];
 
   for(a = dataAmount; a > 0; a--) {
