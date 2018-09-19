@@ -1,0 +1,34 @@
+#include <studio.h>
+#include <stdlib.h>
+
+int main() {
+
+  float dataNum=0, compareNum=0;
+  float data[];
+  int dataAmount=0, testNum=0, a=0, b=0;
+  int correct[];
+
+  for(a = dataAmount; a > 0; a--) {
+    
+    scanf("%lf", &dataAmount);
+    scanf("%lf", &data[a];
+    
+  }
+  
+  for(a = dataAmount; a > 0; a--) {
+    
+    testNum = data[a];
+    compareNum = testNum;
+    if ( data[a] = compareNum ) {
+      correct[a] = data[a];
+    }
+  }
+  
+  printf("%d", &dataAmount);
+
+  for(a = dataAmount; a > 0; a--) {
+    printf("%lf\n", &data[a]);
+  }
+
+
+}
