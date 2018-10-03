@@ -54,7 +54,7 @@ $(document).ready(function(){
 		$(".center img").attr('src', 'the_mine_chair.jpg');
 		$(".center").delay( 1300 ).fadeIn( 400 );
 		$(".right span").hide( 100 ).delay( 2400 ).show( 800 );
-		$
+		$(".left-side #number").html("02.");
 	});
 });
 
