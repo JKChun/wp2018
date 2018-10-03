@@ -50,7 +50,7 @@ $(document).ready(function(){
 		$(".left-side #type2").html("Mine");
 		$(".left-side #introcontent").html("This chair has 9 variantsants");
 		$(".left-side #introcontent").hide ( 400 ).delay( 1100 ).show( 800 );
-		$(".left-side #textblock3").delay( 800 ).css("height", "30px").delay( 2300 ).animate({height: '0px'}, 800);
+		$(".left-side #textblock3").delay( 800 ).css("height", "32px").delay( 2300 ).animate({height: '0px'}, 800);
 		$(".center img").attr('src', 'the_mine_chair.jpg');
 		$(".center").delay( 1300 ).fadeIn( 400 );
 		$(".right span").hide( 100 ).delay( 2400 ).show( 800 );
